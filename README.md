@@ -11,7 +11,7 @@ https://github.com/shivpvtel/Books/blob/main/How%20to%20Talk%20to%20Anyone%2092%
 5) How to Win Friends and Influence People bu Dale Carnegie
   https://github.com/shivpvtel/Books/blob/main/How%20to%20Win%20Friends%20and%20Influence%20People%20bu%20Dale%20Carnegie.pdf
 6) Ikigai The Japanese Secret to a Long and Happy Life by Hector Garcia and Francesc Miralles
-  https://github.com/shivpvtel/Books/blob/main/Ikigai%20The%20Japanese%20Secret%20to%20a%20Long%20and%20Happy%20Life%20by%20Hector%20Garcia%20and%20Francesc%20Miralles.pdf
+ https://github.com/shivpvtel/Books/blob/main/Ikigai%20The%20Japanese%20Secret%20to%20a%20Long%20and%20Happy%20Life%20by%20Hector%20Garcia%20and%20Francesc%20Miralles.pdf
 7) The Psychology of Money by Morgan Housel
   https://github.com/shivpvtel/Books/blob/main/The%20Psychology%20of%20Money%20by%20Morgan%20Housel.pdf
 8) The Subtle Art of Not Giving a Fuck by Mark Manson
