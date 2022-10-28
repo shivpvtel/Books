@@ -9,4 +9,4 @@
 7) [The Psychology of Money by Morgan Housel](https://github.com/shivpvtel/Books/blob/main/The%20Psychology%20of%20Money%20by%20Morgan%20Housel.pdf)
 8) [The Subtle Art of Not Giving a Fuck by Mark Manson](https://github.com/shivpvtel/Books/blob/main/The%20Subtle%20Art%20of%20Not%20Giving%20a%20Fuck%20by%20Mark%20Manson.pdf)
 9) [Rich Dad Poor Dad by Robert T. Kiyosaki](https://github.com/shivpvtel/Books/blob/main/Rich%20Dad%20Poor%20Dad%20by%20Robert%20T.%20Kiyosaki.pdf)
-10) [Meditations by Marcus Aurelius] (https://github.com/shivpvtel/Books/blob/main/Meditations%20by%20Marcus%20Aurelius.pdf)
+10) [Meditations by Marcus Aurelius](https://github.com/shivpvtel/Books/blob/main/Meditations%20by%20Marcus%20Aurelius.pdf)
