@@ -10,4 +10,4 @@
 8) [The Subtle Art of Not Giving a Fuck by Mark Manson](https://github.com/shivpvtel/Books/blob/main/The%20Subtle%20Art%20of%20Not%20Giving%20a%20Fuck%20by%20Mark%20Manson.pdf)
 9) [Rich Dad Poor Dad by Robert T. Kiyosaki](https://github.com/shivpvtel/Books/blob/main/Rich%20Dad%20Poor%20Dad%20by%20Robert%20T.%20Kiyosaki.pdf)
 10) [Meditations by Marcus Aurelius](https://github.com/shivpvtel/Books/blob/main/Meditations%20by%20Marcus%20Aurelius.pdf)
-11) [Never Split the Difference: Negotiating As If Your Life Depended On It (https://github.com/shivpvtel/Books/blob/main/Never%20Split%20the%20Difference_%20Negotiating%20As%20If%20Your%20Life%20Depended%20On%20It%20(%20PDFDrive%20.pdf)
+11) [Never Split the Difference: Negotiating As If Your Life Depended On It](https://github.com/shivpvtel/Books/blob/main/Never%20Split%20the%20Difference_%20Negotiating%20As%20If%20Your%20Life%20Depended%20On%20It%20(%20PDFDrive%20).pdf)
